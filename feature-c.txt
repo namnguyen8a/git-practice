@@ -1,2 +1,3 @@
 Line 1: Content from feature-c 
 Line 2: content 2 from feature-c 
+Line 3: Content 3 
